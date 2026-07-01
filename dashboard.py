@@ -26,7 +26,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- ENCABEZADO ---
-st.title("☀️ Analizador Exergoeconómico Inteligente")
+st.title("☀️ Analizador Exergoeconómico")
 st.markdown("#### Planta CSP Torre Central (50 MWe Nominal) | Datos Reales del Proyecto")
 st.markdown("---")
 
